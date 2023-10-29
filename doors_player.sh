@@ -8,7 +8,7 @@ then
 else
 	filter="$1"
 	filtered_pl=$HOME/bin/doors/filtered_pl.txt
-	curl -s $playlist | grep $filter > $filtered_pl
+	curl -s $playlist | grep $filter | sort -t"/" -k8,9 > $filtered_pl
 	mpv --prefetch-playlist --shuffle=yes --playlist=$filtered_pl
 fi
 

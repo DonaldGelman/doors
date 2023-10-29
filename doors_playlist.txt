@@ -3324,7 +3324,6 @@ https://res.cloudinary.com/roedecker/video/upload/v1693533720/doors_txfs01/thexf
 https://res.cloudinary.com/roedecker/video/upload/v1693533512/doors_txfs01/thexfiles_s01e04_09.webm
 https://res.cloudinary.com/roedecker/video/upload/v1693533507/doors_txfs01/thexfiles_s01e04_10.webm
 https://res.cloudinary.com/roedecker/video/upload/v1693533476/doors_txfs01/thexfiles_s01e04_01.webm
-https://res.cloudinary.com/roedecker/video/upload/v1693533469/doors_txfs01/thexfiles_s01e04_05_b.webm
 https://res.cloudinary.com/roedecker/video/upload/v1693533309/doors_txfs01/thexfiles_s01e03_06.webm
 https://res.cloudinary.com/roedecker/video/upload/v1693533281/doors_txfs01/thexfiles_s01e03_07.webm
 https://res.cloudinary.com/roedecker/video/upload/v1693533281/doors_txfs01/thexfiles_s01e03_9_b.webm
@@ -3944,7 +3943,6 @@ https://res.cloudinary.com/roedecker/video/upload/v1690763574/doors_txfs03/thexf
 https://res.cloudinary.com/roedecker/video/upload/v1690763569/doors_txfs03/thexfiles_s03e03_06.webm
 https://res.cloudinary.com/roedecker/video/upload/v1690763562/doors_txfs03/thexfiles_s03e03_05.webm
 https://res.cloudinary.com/roedecker/video/upload/v1690763553/doors_txfs03/thexfiles_s03e03_04.webm
-https://res.cloudinary.com/roedecker/video/upload/v1690763517/doors_txfs03/thexfiles_s03e03_03.webm
 https://res.cloudinary.com/roedecker/video/upload/v1690763482/doors_txfs03/thexfiles_s03e03_02.webm
 https://res.cloudinary.com/roedecker/video/upload/v1690763452/doors_txfs03/thexfiles_s03e03_01.webm
 https://res.cloudinary.com/roedecker/video/upload/v1690763419/doors_txfs03/thexfiles_s03e02_09.webm
