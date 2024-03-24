@@ -2875,6 +2875,7 @@ https://res.cloudinary.com/dsstucmpc/video/upload/v1711160375/doors_nowhereman/n
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160381/doors_nowhereman/nowhereman_s01e06_thomasjwright_thespiderwebb_1995_6.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160393/doors_nowhereman/nowhereman_s01e06_thomasjwright_thespiderwebb_1995_7.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160395/doors_nowhereman/nowhereman_s01e06_thomasjwright_thespiderwebb_1995_8.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711160407/doors_nowhereman/nowhereman_s01e06_thomasjwright_thespiderwebb_1995_9.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160215/doors_nowhereman/nowhereman_s01e07_guymagar_aroughwhimperofinsanity_1995_1.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160230/doors_nowhereman/nowhereman_s01e07_guymagar_aroughwhimperofinsanity_1995_2.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160248/doors_nowhereman/nowhereman_s01e07_guymagar_aroughwhimperofinsanity_1995_3.webm
@@ -2891,6 +2892,18 @@ https://res.cloudinary.com/dsstucmpc/video/upload/v1711160115/doors_nowhereman/n
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160122/doors_nowhereman/nowhereman_s01e08_stevenrobman_thealphaspike_1995_6.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160133/doors_nowhereman/nowhereman_s01e08_stevenrobman_thealphaspike_1995_7.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1711160143/doors_nowhereman/nowhereman_s01e08_stevenrobman_thealphaspike_1995_8.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711242447/doors_nowhereman/nowhereman_s01e10_guymagar_father_1995_1.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711242475/doors_nowhereman/nowhereman_s01e10_guymagar_father_1995_2.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711242493/doors_nowhereman/nowhereman_s01e10_guymagar_father_1995_3.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711242498/doors_nowhereman/nowhereman_s01e10_guymagar_father_1995_4.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711242531/doors_nowhereman/nowhereman_s01e10_guymagar_father_1995_5.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711242535/doors_nowhereman/nowhereman_s01e10_guymagar_father_1995_6.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711242567/doors_nowhereman/nowhereman_s01e10_guymagar_father_1995_7.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711248141/doors_nowhereman/nowhereman_s01e11_iantoynton_anenemywithin_1995_1.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711248158/doors_nowhereman/nowhereman_s01e11_iantoynton_anenemywithin_1995_2.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711248184/doors_nowhereman/nowhereman_s01e11_iantoynton_anenemywithin_1995_3.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711248223/doors_nowhereman/nowhereman_s01e11_iantoynton_anenemywithin_1995_4.webm
+https://res.cloudinary.com/dsstucmpc/video/upload/v1711248231/doors_nowhereman/nowhereman_s01e11_iantoynton_anenemywithin_1995_5.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1703220420/doors_spaceaboveandbeyond/spaceaboveandbeyond_s01e23_thomasjwright_tellourmomswedoneourbest_1996_8.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1703220407/doors_spaceaboveandbeyond/spaceaboveandbeyond_s01e23_thomasjwright_tellourmomswedoneourbest_1996_7.webm
 https://res.cloudinary.com/dsstucmpc/video/upload/v1703220397/doors_spaceaboveandbeyond/spaceaboveandbeyond_s01e23_thomasjwright_tellourmomswedoneourbest_1996_6.webm
